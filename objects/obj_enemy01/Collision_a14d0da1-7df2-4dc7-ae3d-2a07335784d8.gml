@@ -1,0 +1,1 @@
+enemy01_health = enemy01_health - 25

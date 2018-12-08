@@ -1,0 +1,1 @@
+instance_destroy() //destroys this bullet after the ime set in Create

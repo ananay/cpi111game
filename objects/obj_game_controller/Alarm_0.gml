@@ -1,0 +1,2 @@
+audio_stop_sound(current_music)
+room_goto(rm_game_over)

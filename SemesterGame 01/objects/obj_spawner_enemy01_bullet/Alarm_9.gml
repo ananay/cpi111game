@@ -1,0 +1,1 @@
+obj_enemy01.canShoot = true

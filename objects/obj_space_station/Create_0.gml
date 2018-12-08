@@ -1,0 +1,1 @@
+//instance_create_layer(x,y,"Instances2",obj_station_explosion)
